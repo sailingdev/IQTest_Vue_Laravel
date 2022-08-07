@@ -1,0 +1,53 @@
+
+<svg width="260px" height="260px" viewBox="0 0 260 260" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <polygon id="path-1" points="0 0 260 0 260 260 184.53776 260 0 260 0 217.629187"></polygon>
+        <filter x="-2.3%" y="-1.5%" width="104.6%" height="103.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="2" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.031372549   0 0 0 0 0.501960784   0 0 0 0 0.796078431  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="-2" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.031372549   0 0 0 0 0.501960784   0 0 0 0 0.796078431  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Questions" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Question-17" transform="translate(-1176.000000, -152.000000)">
+            <g id="Options" transform="translate(920.000000, 154.000000)">
+                <g id="Option-2" transform="translate(260.000000, 0.000000)">
+                    <g id="Option-Box-Container">
+                        <g id="Backgound-Box">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill-opacity="0.5" fill="#F9F9F9" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <path d="M0,0 L40,0 L40,41 C40,45.9705627 35.9705627,50 31,50 L0,50 L0,0 Z" id="Background-Box-Number" fill="#DBF1FF" fill-rule="evenodd"></path>
+                        <text id="Option-Number" font-family="Roboto-Regular, Roboto" font-size="25" font-weight="normal" fill="#0880CB">
+                            <tspan x="12.7180176" y="33">B</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-32-Copy" transform="translate(79.000000, 79.000000)" stroke="#0880CB">
+                        <rect id="Rectangle" stroke-width="5" fill="#FFFFFF" x="0.5" y="1" width="100" height="100"></rect>
+                        <path d="M101.5,0.5 L0.5,99" id="Path-28" stroke-width="2"></path>
+                        <g id="Group-34" transform="translate(8.000000, 8.000000)" stroke-width="2">
+                            <path d="M0,0.5 L85.359375,0.5" id="Path-30"></path>
+                            <path d="M5.04003906,5.5 L79.8710938,5.5" id="Path-30-Copy"></path>
+                            <path d="M10.0400391,10.5 L75.0576172,10.5" id="Path-30-Copy-2"></path>
+                            <path d="M15.1000897,15.5 L69.8095703,15.5" id="Path-30-Copy-3"></path>
+                            <path d="M20.0348634,20.5 L64.3017578,20.5" id="Path-30-Copy-4"></path>
+                            <path d="M24.5959547,25.5 L60.2353516,25.5" id="Path-30-Copy-5"></path>
+                            <path d="M30.1499249,30.5 L54.9482422,30.5" id="Path-30-Copy-6"></path>
+                            <path d="M34.5089846,35.5 L49.0400391,35.5" id="Path-30-Copy-7"></path>
+                        </g>
+                        <path d="M100.5,101 L0.5,1" id="Path-29" stroke-width="2"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

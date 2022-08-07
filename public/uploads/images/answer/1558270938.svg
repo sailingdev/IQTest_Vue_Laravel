@@ -1,0 +1,47 @@
+
+<svg width="260px" height="260px" viewBox="0 0 260 260" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <polygon id="path-1" points="0 0 260 0 260 260 184.53776 260 0 260 0 217.629187"></polygon>
+        <filter x="-2.3%" y="-1.5%" width="104.6%" height="103.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="2" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.031372549   0 0 0 0 0.501960784   0 0 0 0 0.796078431  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="-2" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.031372549   0 0 0 0 0.501960784   0 0 0 0 0.796078431  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Questions" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Question-1" transform="translate(-1176.000000, -152.000000)">
+            <g id="Options" transform="translate(920.000000, 154.000000)">
+                <g id="Option-2" transform="translate(260.000000, 0.000000)">
+                    <g id="Option-Box-Container">
+                        <g id="Backgound-Box">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill-opacity="0.5" fill="#F9F9F9" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <path d="M0,0 L40,0 L40,41 C40,45.9705627 35.9705627,50 31,50 L0,50 L0,0 Z" id="Background-Box-Number" fill="#DBF1FF" fill-rule="evenodd"></path>
+                        <text id="Option-Number" font-family="Roboto-Regular, Roboto" font-size="25" font-weight="normal" fill="#0880CB">
+                            <tspan x="12.7180176" y="33">B</tspan>
+                        </text>
+                    </g>
+                    <g id="Option-Ball" transform="translate(129.500000, 130.500000) rotate(45.000000) translate(-129.500000, -130.500000) translate(86.000000, 76.000000)">
+                        <g id="Ball">
+                            <g id="Tip">
+                                <path d="M30.5,20.5 L55.5,20.5 L55.5,15 C55.5,13.0670034 53.9329966,11.5 52,11.5 L34,11.5 C32.0670034,11.5 30.5,13.0670034 30.5,15 L30.5,20.5 Z" id="Rectangle" stroke="#0880CB" fill="#0880CB"></path>
+                                <path d="M40,0.833333333 L46,0.833333333 C48.209139,0.833333333 50,2.62419433 50,4.83333333 L50,15.8333333 L36,15.8333333 L36,4.83333333 C36,2.62419433 37.790861,0.833333333 40,0.833333333 Z" id="Rectangle" fill="#0880CB"></path>
+                                <ellipse id="Oval" stroke="#0880CB" stroke-width="6" fill="#DCF1FF" cx="43.8881674" cy="64.5010938" rx="42.9783702" ry="44.4153176"></ellipse>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

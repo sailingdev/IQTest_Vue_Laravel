@@ -1,0 +1,88 @@
+
+<svg width="560px" height="560px" viewBox="0 0 560 560" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Questions" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Question-13" transform="translate(-180.000000, -264.000000)">
+            <g id="Console" transform="translate(180.000000, 264.000000)">
+                <g id="Example-Box" transform="translate(400.000000, 400.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <text id="Question" font-family="Roboto-Regular, Roboto" font-size="100" font-weight="normal" fill="#0880CB">
+                    <tspan x="456" y="519">?</tspan>
+                </text>
+                <g id="Example-Box" transform="translate(200.000000, 400.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Group-24-Copy-7" transform="translate(230.000000, 430.000000)">
+                    <rect id="Rectangle" stroke="#0880CB" stroke-width="5" fill="#FFFFFF" x="0" y="0" width="100" height="100"></rect>
+                    <path d="M4.26325641e-14,50 L100,50 L4.26325641e-14,50 Z" id="Path-16" stroke="#0880CB" stroke-width="5"></path>
+                    <circle id="Oval" fill="#0880CB" cx="50" cy="50" r="10"></circle>
+                    <path d="M51,50 L51,0" id="Path-21" stroke="#0880CB" stroke-width="5"></path>
+                </g>
+                <g id="Example-Box" transform="translate(0.000000, 400.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Group-24-Copy-6" transform="translate(30.000000, 430.000000)">
+                    <rect id="Rectangle" stroke="#0880CB" stroke-width="5" fill="#FFFFFF" x="0" y="0" width="100" height="100"></rect>
+                    <path d="M50,50 L100,100 L50,50 Z" id="Path-16" stroke="#0880CB" stroke-width="5"></path>
+                    <circle id="Oval" fill="#0880CB" cx="50" cy="50" r="10"></circle>
+                    <path d="M51,50 L51,0" id="Path-21" stroke="#0880CB" stroke-width="5"></path>
+                </g>
+                <g id="Example-Box" transform="translate(400.000000, 200.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Group-24-Copy-5" transform="translate(430.000000, 230.000000)">
+                    <rect id="Rectangle" stroke="#0880CB" stroke-width="5" fill="#FFFFFF" x="0" y="0" width="100" height="100"></rect>
+                    <path d="M50,50 L50,1.88293825e-13 L50,50 Z" id="Path-16" stroke="#0880CB" stroke-width="5"></path>
+                    <circle id="Oval" fill="#0880CB" cx="50" cy="50" r="10"></circle>
+                    <path d="M51,50 L51,100" id="Path-21" stroke="#0880CB" stroke-width="5"></path>
+                    <path d="M100,0 L50,49.5" id="Path-22" stroke="#0880CB" stroke-width="5"></path>
+                </g>
+                <g id="Example-Box" transform="translate(200.000000, 200.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Group-24-Copy-4" transform="translate(230.000000, 230.000000)">
+                    <rect id="Rectangle" stroke="#0880CB" stroke-width="5" fill="#FFFFFF" x="0" y="0" width="100" height="100"></rect>
+                    <path d="M50,50 L0,50 L50,50 Z" id="Path-16" stroke="#0880CB" stroke-width="5"></path>
+                    <circle id="Oval" fill="#0880CB" cx="50" cy="50" r="10"></circle>
+                    <path d="M51,50 L51,100" id="Path-21" stroke="#0880CB" stroke-width="5"></path>
+                    <path d="M100,0 L50,49.5" id="Path-22" stroke="#0880CB" stroke-width="5"></path>
+                </g>
+                <g id="Example-Box" transform="translate(0.000000, 200.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Group-24-Copy-3" transform="translate(30.000000, 230.000000)">
+                    <rect id="Rectangle" stroke="#0880CB" stroke-width="5" fill="#FFFFFF" x="0" y="0" width="100" height="100"></rect>
+                    <path d="M50,50 L0,50 L50,50 Z" id="Path-16" stroke="#0880CB" stroke-width="5"></path>
+                    <circle id="Oval" fill="#0880CB" cx="50" cy="50" r="10"></circle>
+                    <path d="M51,50 L51,0" id="Path-21" stroke="#0880CB" stroke-width="5"></path>
+                </g>
+                <g id="Example-Box" transform="translate(400.000000, 0.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Group-24-Copy-2" transform="translate(430.000000, 30.000000)">
+                    <rect id="Rectangle" stroke="#0880CB" stroke-width="5" fill="#FFFFFF" x="0" y="0" width="100" height="100"></rect>
+                    <circle id="Oval" fill="#0880CB" cx="50" cy="50" r="10"></circle>
+                    <path d="M50,0 L50,100" id="Path-19" stroke="#0880CB" stroke-width="5"></path>
+                    <polyline id="Path-20" stroke="#0880CB" stroke-width="5" points="0 100 50 50 100 50"></polyline>
+                </g>
+                <g id="Example-Box" transform="translate(200.000000, 0.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Group-24-Copy" transform="translate(230.000000, 30.000000)">
+                    <rect id="Rectangle" stroke="#0880CB" stroke-width="5" fill="#FFFFFF" x="0" y="0" width="100" height="100"></rect>
+                    <circle id="Oval" fill="#0880CB" cx="50" cy="50" r="10"></circle>
+                    <polyline id="Path-17" stroke="#0880CB" stroke-width="5" points="0 0 50 50 0 100"></polyline>
+                    <path d="M50,0 L50,100" id="Path-18" stroke="#0880CB" stroke-width="5"></path>
+                </g>
+                <g id="Example-Box" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Group-24" transform="translate(30.000000, 30.000000)">
+                    <rect id="Rectangle" stroke="#0880CB" stroke-width="5" fill="#FFFFFF" x="0" y="0" width="100" height="100"></rect>
+                    <polyline id="Path-16" stroke="#0880CB" stroke-width="5" points="0 0 50 50 100 50"></polyline>
+                    <circle id="Oval" fill="#0880CB" cx="50" cy="50" r="10"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

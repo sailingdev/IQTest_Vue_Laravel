@@ -1,0 +1,111 @@
+
+<svg width="560px" height="560px" viewBox="0 0 560 560" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Questions" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Question-1" transform="translate(-180.000000, -264.000000)">
+            <g id="Console" transform="translate(180.000000, 264.000000)">
+                <g id="Example-Box" transform="translate(400.000000, 400.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <text id="Question" font-family="Roboto-Regular, Roboto" font-size="100" font-weight="normal" fill="#0880CB">
+                    <tspan x="456" y="519">?</tspan>
+                </text>
+                <g id="Example-Box" transform="translate(200.000000, 400.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Option-Ball" transform="translate(279.500000, 480.500000) rotate(90.000000) translate(-279.500000, -480.500000) translate(236.000000, 426.000000)">
+                    <g id="Ball">
+                        <g id="Tip">
+                            <path d="M30.5,20.5 L55.5,20.5 L55.5,15 C55.5,13.0670034 53.9329966,11.5 52,11.5 L34,11.5 C32.0670034,11.5 30.5,13.0670034 30.5,15 L30.5,20.5 Z" id="Rectangle" stroke="#0880CB" fill="#0880CB"></path>
+                            <path d="M40,0.833333333 L46,0.833333333 C48.209139,0.833333333 50,2.62419433 50,4.83333333 L50,15.8333333 L36,15.8333333 L36,4.83333333 C36,2.62419433 37.790861,0.833333333 40,0.833333333 Z" id="Rectangle" fill="#0880CB"></path>
+                            <ellipse id="Oval" stroke="#0880CB" stroke-width="6" fill="#DCF1FF" cx="43.8881674" cy="64.5010938" rx="42.9783702" ry="44.4153176"></ellipse>
+                        </g>
+                    </g>
+                </g>
+                <g id="Option-Ball" transform="translate(80.296465, 480.296465) rotate(45.000000) translate(-80.296465, -480.296465) translate(36.796465, 425.796465)">
+                    <g id="Ball">
+                        <g id="Tip">
+                            <path d="M30.5,20.5 L55.5,20.5 L55.5,15 C55.5,13.0670034 53.9329966,11.5 52,11.5 L34,11.5 C32.0670034,11.5 30.5,13.0670034 30.5,15 L30.5,20.5 Z" id="Rectangle" stroke="#0880CB" fill="#0880CB"></path>
+                            <path d="M40,0.833333333 L46,0.833333333 C48.209139,0.833333333 50,2.62419433 50,4.83333333 L50,15.8333333 L36,15.8333333 L36,4.83333333 C36,2.62419433 37.790861,0.833333333 40,0.833333333 Z" id="Rectangle" fill="#0880CB"></path>
+                            <ellipse id="Oval" stroke="#0880CB" stroke-width="6" fill="#DCF1FF" cx="43.8881674" cy="64.5010938" rx="42.9783702" ry="44.4153176"></ellipse>
+                        </g>
+                    </g>
+                </g>
+                <g id="Example-Box" transform="translate(0.000000, 400.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Example-Box" transform="translate(400.000000, 200.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Option-Ball" transform="translate(480.500000, 278.500000) rotate(45.000000) translate(-480.500000, -278.500000) translate(437.000000, 224.000000)">
+                    <g id="Ball">
+                        <g id="Tip">
+                            <path d="M30.5,20.5 L55.5,20.5 L55.5,15 C55.5,13.0670034 53.9329966,11.5 52,11.5 L34,11.5 C32.0670034,11.5 30.5,13.0670034 30.5,15 L30.5,20.5 Z" id="Rectangle" stroke="#0880CB" fill="#0880CB"></path>
+                            <path d="M40,0.833333333 L46,0.833333333 C48.209139,0.833333333 50,2.62419433 50,4.83333333 L50,15.8333333 L36,15.8333333 L36,4.83333333 C36,2.62419433 37.790861,0.833333333 40,0.833333333 Z" id="Rectangle" fill="#0880CB"></path>
+                            <ellipse id="Oval" stroke="#0880CB" stroke-width="6" fill="#DCF1FF" cx="43.8881674" cy="64.5010938" rx="42.9783702" ry="44.4153176"></ellipse>
+                        </g>
+                    </g>
+                </g>
+                <g id="Example-Box" transform="translate(200.000000, 200.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Option-Ball" transform="translate(236.000000, 224.000000)">
+                    <g id="Ball">
+                        <g id="Tip">
+                            <path d="M30.5,20.5 L55.5,20.5 L55.5,15 C55.5,13.0670034 53.9329966,11.5 52,11.5 L34,11.5 C32.0670034,11.5 30.5,13.0670034 30.5,15 L30.5,20.5 Z" id="Rectangle" stroke="#0880CB" fill="#0880CB"></path>
+                            <path d="M40,0.833333333 L46,0.833333333 C48.209139,0.833333333 50,2.62419433 50,4.83333333 L50,15.8333333 L36,15.8333333 L36,4.83333333 C36,2.62419433 37.790861,0.833333333 40,0.833333333 Z" id="Rectangle" fill="#0880CB"></path>
+                            <ellipse id="Oval" stroke="#0880CB" stroke-width="6" fill="#DCF1FF" cx="43.8881674" cy="64.5010938" rx="42.9783702" ry="44.4153176"></ellipse>
+                        </g>
+                    </g>
+                </g>
+                <g id="Example-Box" transform="translate(0.000000, 200.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Option-Ball" transform="translate(79.500000, 280.500000) rotate(90.000000) translate(-79.500000, -280.500000) translate(36.000000, 226.000000)">
+                    <g id="Ball">
+                        <g id="Tip">
+                            <path d="M30.5,20.5 L55.5,20.5 L55.5,15 C55.5,13.0670034 53.9329966,11.5 52,11.5 L34,11.5 C32.0670034,11.5 30.5,13.0670034 30.5,15 L30.5,20.5 Z" id="Rectangle" stroke="#0880CB" fill="#0880CB"></path>
+                            <path d="M40,0.833333333 L46,0.833333333 C48.209139,0.833333333 50,2.62419433 50,4.83333333 L50,15.8333333 L36,15.8333333 L36,4.83333333 C36,2.62419433 37.790861,0.833333333 40,0.833333333 Z" id="Rectangle" fill="#0880CB"></path>
+                            <ellipse id="Oval" stroke="#0880CB" stroke-width="6" fill="#DCF1FF" cx="43.8881674" cy="64.5010938" rx="42.9783702" ry="44.4153176"></ellipse>
+                        </g>
+                    </g>
+                </g>
+                <g id="Example-Box" transform="translate(400.000000, 0.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Option-Ball" transform="translate(480.296465, 80.500000) rotate(90.000000) translate(-480.296465, -80.500000) translate(436.796465, 26.000000)">
+                    <g id="Ball">
+                        <g id="Tip">
+                            <path d="M30.5,20.5 L55.5,20.5 L55.5,15 C55.5,13.0670034 53.9329966,11.5 52,11.5 L34,11.5 C32.0670034,11.5 30.5,13.0670034 30.5,15 L30.5,20.5 Z" id="Rectangle" stroke="#0880CB" fill="#0880CB"></path>
+                            <path d="M40,0.833333333 L46,0.833333333 C48.209139,0.833333333 50,2.62419433 50,4.83333333 L50,15.8333333 L36,15.8333333 L36,4.83333333 C36,2.62419433 37.790861,0.833333333 40,0.833333333 Z" id="Rectangle" fill="#0880CB"></path>
+                            <ellipse id="Oval" stroke="#0880CB" stroke-width="6" fill="#DCF1FF" cx="43.8881674" cy="64.5010938" rx="42.9783702" ry="44.4153176"></ellipse>
+                        </g>
+                    </g>
+                </g>
+                <g id="Example-Box" transform="translate(200.000000, 0.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Option-Ball" transform="translate(279.500000, 80.500000) rotate(45.000000) translate(-279.500000, -80.500000) translate(236.000000, 26.000000)">
+                    <g id="Ball">
+                        <g id="Tip">
+                            <path d="M30.5,20.5 L55.5,20.5 L55.5,15 C55.5,13.0670034 53.9329966,11.5 52,11.5 L34,11.5 C32.0670034,11.5 30.5,13.0670034 30.5,15 L30.5,20.5 Z" id="Rectangle" stroke="#0880CB" fill="#0880CB"></path>
+                            <path d="M40,0.833333333 L46,0.833333333 C48.209139,0.833333333 50,2.62419433 50,4.83333333 L50,15.8333333 L36,15.8333333 L36,4.83333333 C36,2.62419433 37.790861,0.833333333 40,0.833333333 Z" id="Rectangle" fill="#0880CB"></path>
+                            <ellipse id="Oval" stroke="#0880CB" stroke-width="6" fill="#DCF1FF" cx="43.8881674" cy="64.5010938" rx="42.9783702" ry="44.4153176"></ellipse>
+                        </g>
+                    </g>
+                </g>
+                <g id="Example-Box" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Option-Ball" transform="translate(36.000000, 26.000000)">
+                    <g id="Ball">
+                        <g id="Tip">
+                            <path d="M30.5,20.5 L55.5,20.5 L55.5,15 C55.5,13.0670034 53.9329966,11.5 52,11.5 L34,11.5 C32.0670034,11.5 30.5,13.0670034 30.5,15 L30.5,20.5 Z" id="Rectangle" stroke="#0880CB" fill="#0880CB"></path>
+                            <path d="M40,0.833333333 L46,0.833333333 C48.209139,0.833333333 50,2.62419433 50,4.83333333 L50,15.8333333 L36,15.8333333 L36,4.83333333 C36,2.62419433 37.790861,0.833333333 40,0.833333333 Z" id="Rectangle" fill="#0880CB"></path>
+                            <ellipse id="Oval" stroke="#0880CB" stroke-width="6" fill="#DCF1FF" cx="43.8881674" cy="64.5010938" rx="42.9783702" ry="44.4153176"></ellipse>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

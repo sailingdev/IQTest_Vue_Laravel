@@ -1,0 +1,147 @@
+
+<svg width="560px" height="560px" viewBox="0 0 560 560" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Questions" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Question-17" transform="translate(-180.000000, -264.000000)">
+            <g id="Console" transform="translate(180.000000, 264.000000)">
+                <g id="Example-Box" transform="translate(400.000000, 400.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <text id="Question" font-family="Roboto-Regular, Roboto" font-size="100" font-weight="normal" fill="#0880CB">
+                    <tspan x="456" y="519">?</tspan>
+                </text>
+                <g id="Example-Box" transform="translate(200.000000, 400.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Group-32-Copy" transform="translate(230.000000, 428.000000)" stroke="#0880CB">
+                    <rect id="Rectangle" stroke-width="5" fill="#FFFFFF" x="0.5" y="2" width="100" height="100"></rect>
+                    <path d="M101.5,1.5 L0.5,100" id="Path-28" stroke-width="2"></path>
+                    <g id="Group-34" transform="translate(9.000000, 0.000000)" stroke-width="2">
+                        <path d="M0,3 L45,47" id="Path-30"></path>
+                        <path d="M5,0 L50,44" id="Path-30-Copy-8"></path>
+                        <path d="M13,1 L53,40" id="Path-30-Copy-9"></path>
+                        <path d="M21,2 L57,37" id="Path-30-Copy-10"></path>
+                        <path d="M27,2 L60,34" id="Path-30-Copy-11"></path>
+                        <path d="M33,2 L63,31" id="Path-30-Copy-12"></path>
+                        <path d="M39,2 L66,28" id="Path-30-Copy-13"></path>
+                        <path d="M45,2 L69,25" id="Path-30-Copy-14"></path>
+                        <path d="M51,2 L72,22" id="Path-30-Copy-15"></path>
+                        <path d="M56,2 L74,19" id="Path-30-Copy-16"></path>
+                        <path d="M61.5,2 L77,17" id="Path-30-Copy-17"></path>
+                        <path d="M67,2 L80,15" id="Path-30-Copy-18"></path>
+                        <path d="M72,2 L82,12" id="Path-30-Copy-19"></path>
+                        <path d="M77,2 L84,9" id="Path-30-Copy-20"></path>
+                    </g>
+                    <path d="M100.5,102 L0.5,2" id="Path-29" stroke-width="2"></path>
+                </g>
+                <g id="Example-Box" transform="translate(0.000000, 400.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Group-32" transform="translate(29.000000, 429.000000)" stroke="#0880CB">
+                    <rect id="Rectangle" stroke-width="5" fill="#FFFFFF" x="0.5" y="1" width="100" height="100"></rect>
+                    <path d="M101.5,0.5 L0.5,99" id="Path-28" stroke-width="2"></path>
+                    <path d="M100.5,101 L0.5,1" id="Path-29" stroke-width="2"></path>
+                </g>
+                <g id="Example-Box" transform="translate(400.000000, 200.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Group-30-Copy" transform="translate(430.000000, 230.000000)" stroke="#0880CB">
+                    <circle id="Oval-Copy-7" stroke-width="5" fill="#FFFFFF" cx="50.5" cy="50" r="50"></circle>
+                    <path d="M50.5,0 L50.5,100" id="Path-27-Copy" stroke-width="2"></path>
+                    <path d="M0.5,50 L100.5,50" id="Path-27-Copy-2" stroke-width="2"></path>
+                    <path d="M50,45 L100.5,45" id="Path-27-Copy-2" stroke-width="2"></path>
+                    <g id="Group-31" transform="translate(75.500000, 75.000000) scale(-1, 1) rotate(180.000000) translate(-75.500000, -75.000000) translate(50.000000, 54.000000)" stroke-width="2">
+                        <path d="M0,41 L50.5,41" id="Path-27-Copy-11"></path>
+                        <path d="M0,36 L50.5,36" id="Path-27-Copy-12"></path>
+                        <path d="M0,31 L50.5,31" id="Path-27-Copy-13"></path>
+                        <path d="M0,26 L45.9189453,26" id="Path-27-Copy-14"></path>
+                        <path d="M0,21 L44.0722656,21" id="Path-27-Copy-15"></path>
+                        <path d="M0,16 L40.8066406,16" id="Path-27-Copy-16"></path>
+                        <path d="M0,11 L35.5234375,11" id="Path-27-Copy-17"></path>
+                        <path d="M0,6 L30.3222656,6" id="Path-27-Copy-18"></path>
+                        <path d="M0,1 L23.0205078,1" id="Path-27-Copy-19"></path>
+                    </g>
+                    <path d="M50,40 L100.5,40" id="Path-27-Copy-3" stroke-width="2"></path>
+                    <path d="M50,35 L100.5,35" id="Path-27-Copy-4" stroke-width="2"></path>
+                    <path d="M50,30 L95.9189453,30" id="Path-27-Copy-5" stroke-width="2"></path>
+                    <path d="M50,25 L94.0722656,25" id="Path-27-Copy-6" stroke-width="2"></path>
+                    <path d="M50,20 L90.8066406,20" id="Path-27-Copy-7" stroke-width="2"></path>
+                    <path d="M50,15 L85.5234375,15" id="Path-27-Copy-8" stroke-width="2"></path>
+                    <path d="M50,10 L80.3222656,10" id="Path-27-Copy-9" stroke-width="2"></path>
+                    <path d="M50,5 L73.0205078,5" id="Path-27-Copy-10" stroke-width="2"></path>
+                </g>
+                <g id="Example-Box" transform="translate(200.000000, 200.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Group-30" transform="translate(230.000000, 230.000000)" stroke="#0880CB">
+                    <circle id="Oval-Copy-7" stroke-width="5" fill="#FFFFFF" cx="50.5" cy="50" r="50"></circle>
+                    <path d="M50.5,0 L50.5,100" id="Path-27-Copy" stroke-width="2"></path>
+                    <path d="M0.5,50 L100.5,50" id="Path-27-Copy-2" stroke-width="2"></path>
+                    <path d="M50,45 L100.5,45" id="Path-27-Copy-2" stroke-width="2"></path>
+                    <path d="M50,40 L100.5,40" id="Path-27-Copy-3" stroke-width="2"></path>
+                    <path d="M50,35 L100.5,35" id="Path-27-Copy-4" stroke-width="2"></path>
+                    <path d="M50,30 L95.9189453,30" id="Path-27-Copy-5" stroke-width="2"></path>
+                    <path d="M50,25 L94.0722656,25" id="Path-27-Copy-6" stroke-width="2"></path>
+                    <path d="M50,20 L90.8066406,20" id="Path-27-Copy-7" stroke-width="2"></path>
+                    <path d="M50,15 L85.5234375,15" id="Path-27-Copy-8" stroke-width="2"></path>
+                    <path d="M50,10 L80.3222656,10" id="Path-27-Copy-9" stroke-width="2"></path>
+                    <path d="M50,5 L73.0205078,5" id="Path-27-Copy-10" stroke-width="2"></path>
+                </g>
+                <g id="Example-Box" transform="translate(0.000000, 200.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Group-33" transform="translate(30.000000, 230.000000)" stroke="#0880CB">
+                    <circle id="Oval" stroke-width="5" fill="#FFFFFF" cx="50.5" cy="50" r="50"></circle>
+                    <path d="M50.5,0 L50.5,100" id="Path-27" stroke-width="2"></path>
+                    <path d="M0.5,50 L100.5,50" id="Path-27" stroke-width="2"></path>
+                </g>
+                <g id="Example-Box" transform="translate(400.000000, 0.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Group-28-Copy-2" transform="translate(430.000000, 30.000000)" stroke="#0880CB">
+                    <polygon id="Triangle" stroke-width="5" fill="#FFFFFF" points="50 0 100 100 0 100"></polygon>
+                    <polygon id="Triangle" stroke-width="2" fill="#FFFFFF" transform="translate(50.000000, 75.000000) rotate(180.000000) translate(-50.000000, -75.000000) " points="50 50 75 100 25 100"></polygon>
+                    <g id="Group-29" transform="translate(28.517578, 14.000000)" stroke-width="2">
+                        <path d="M0,30.5 L42.6699219,30.5" id="Path-26"></path>
+                        <path d="M0,25.5 L42.6699219,25.5" id="Path-26-Copy"></path>
+                        <path d="M5.23242187,20.5 L37.7275391,20.5" id="Path-26-Copy-2"></path>
+                        <path d="M9.48242187,15.5 L34.4824219,15.5" id="Path-26-Copy-3"></path>
+                        <path d="M9.48242187,10.5 L34.4824219,10.5" id="Path-26-Copy-4"></path>
+                        <path d="M11.4824219,5.5 L31.4824219,5.5" id="Path-26-Copy-5"></path>
+                        <path d="M14.4824219,0.5 L29.4824219,0.5" id="Path-26-Copy-6"></path>
+                    </g>
+                    <g id="Group-29-Copy" transform="translate(49.517578, 73.000000) rotate(180.000000) translate(-49.517578, -73.000000) translate(26.517578, 55.000000)" stroke-width="2">
+                        <path d="M0.517578125,35.5 L45.5175781,35.5" id="Path-26"></path>
+                        <path d="M3.51757813,30.5 L42.5175781,30.5" id="Path-26-Copy"></path>
+                        <path d="M5.76408617,25.5 L40.2286044,25.5" id="Path-26-Copy-2"></path>
+                        <path d="M8.51757812,20.5 L37.5175781,20.5" id="Path-26-Copy-3"></path>
+                        <path d="M10.5175781,15.5 L34.5175781,15.5" id="Path-26-Copy-4"></path>
+                        <path d="M12.5175781,10.5 L32.5175781,10.5" id="Path-26-Copy-5"></path>
+                        <path d="M14.5175781,5.5 L30.5175781,5.5" id="Path-26-Copy-6"></path>
+                        <path d="M17.5175781,0.5 L26.5175781,0.5" id="Path-26-Copy-7"></path>
+                    </g>
+                </g>
+                <g id="Example-Box" transform="translate(200.000000, 0.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Group-28-Copy" transform="translate(230.000000, 30.000000)" stroke="#0880CB">
+                    <polygon id="Triangle" stroke-width="5" fill="#FFFFFF" points="50 0 100 100 0 100"></polygon>
+                    <polygon id="Triangle" stroke-width="2" fill="#FFFFFF" transform="translate(50.000000, 75.000000) rotate(180.000000) translate(-50.000000, -75.000000) " points="50 50 75 100 25 100"></polygon>
+                    <path d="M28.5175781,44.5 L71.1875,44.5" id="Path-26" stroke-width="2"></path>
+                    <path d="M28.5175781,39.5 L71.1875,39.5" id="Path-26-Copy" stroke-width="2"></path>
+                    <path d="M33.75,34.5 L66.2451172,34.5" id="Path-26-Copy-2" stroke-width="2"></path>
+                    <path d="M38,29.5 L63,29.5" id="Path-26-Copy-3" stroke-width="2"></path>
+                    <path d="M38,24.5 L63,24.5" id="Path-26-Copy-4" stroke-width="2"></path>
+                    <path d="M40,19.5 L60,19.5" id="Path-26-Copy-5" stroke-width="2"></path>
+                    <path d="M43,14.5 L58,14.5" id="Path-26-Copy-6" stroke-width="2"></path>
+                </g>
+                <g id="Example-Box" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Group-28" transform="translate(30.000000, 30.000000)" fill="#FFFFFF" stroke="#0880CB">
+                    <polygon id="Triangle" stroke-width="5" points="50 0 100 100 0 100"></polygon>
+                    <polygon id="Triangle" stroke-width="2" transform="translate(50.000000, 75.000000) rotate(180.000000) translate(-50.000000, -75.000000) " points="50 50 75 100 25 100"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

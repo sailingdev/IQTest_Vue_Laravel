@@ -1,0 +1,75 @@
+
+<svg width="560px" height="560px" viewBox="0 0 560 560" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Questions" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Question-4" transform="translate(-180.000000, -264.000000)">
+            <g id="Console" transform="translate(180.000000, 264.000000)">
+                <g id="Example-Box" transform="translate(400.000000, 400.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <text id="Question" font-family="Roboto-Regular, Roboto" font-size="100" font-weight="normal" fill="#0880CB">
+                    <tspan x="456" y="519">?</tspan>
+                </text>
+                <g id="Example-Box" transform="translate(201.000000, 400.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Group-11" transform="translate(209.000000, 409.000000)" stroke="#0880CB">
+                    <rect id="Rectangle-Copy-8" stroke-width="5" fill="#FFFFFF" transform="translate(71.000000, 70.710678) rotate(45.000000) translate(-71.000000, -70.710678) " x="21" y="20.7106781" width="100" height="100"></rect>
+                    <polygon id="Path-3-Copy-10" fill="#0880CB" transform="translate(106.500000, 106.210678) scale(-1, -1) translate(-106.500000, -106.210678) " points="142 141.710678 142 70.7106781 71 141.710678"></polygon>
+                    <polygon id="Path-3-Copy-13" fill="#0880CB" transform="translate(106.500000, 35.500000) scale(-1, 1) translate(-106.500000, -35.500000) " points="142 71 142 0 71 71"></polygon>
+                </g>
+                <g id="Example-Box" transform="translate(0.000000, 400.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Group-10" transform="translate(9.000000, 409.000000)" stroke="#0880CB">
+                    <rect id="Rectangle-Copy-7" stroke-width="5" fill="#FFFFFF" transform="translate(70.710678, 70.710678) rotate(45.000000) translate(-70.710678, -70.710678) " x="20.7106781" y="20.7106781" width="100" height="100"></rect>
+                    <polygon id="Path-3-Copy-8" fill="#0880CB" transform="translate(35.355339, 103.710678) scale(1, -1) translate(-35.355339, -103.710678) " points="70.7106781 136.710678 70.7106781 70.7106781 -7.45034936e-16 136.710678"></polygon>
+                    <polygon id="Path-3-Copy-12" fill="#0880CB" points="70.7106781 71 70.7106781 0 -7.45034936e-16 71"></polygon>
+                </g>
+                <g id="Example-Box" transform="translate(400.000000, 200.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Group-7" transform="translate(409.000000, 209.000000)" stroke="#0880CB">
+                    <rect id="Rectangle-Copy-6" stroke-width="5" fill="#FFFFFF" transform="translate(70.710678, 71.000000) rotate(45.000000) translate(-70.710678, -71.000000) " x="20.7106781" y="21" width="100" height="100"></rect>
+                    <polygon id="Path-3-Copy-5" fill="#0880CB" transform="translate(35.355339, 104.000000) scale(1, -1) translate(-35.355339, -104.000000) " points="70.7106781 137 70.7106781 71 -7.85046229e-15 137"></polygon>
+                    <polygon id="Path-3-Copy-7" fill="#0880CB" transform="translate(106.500000, 104.000000) scale(-1, -1) translate(-106.500000, -104.000000) " points="142 137 142 71 71 137"></polygon>
+                </g>
+                <g id="Example-Box" transform="translate(200.000000, 200.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Group-8" transform="translate(209.000000, 209.000000)" stroke="#0880CB">
+                    <rect id="Rectangle-Copy-5" stroke-width="5" fill="#FFFFFF" transform="translate(71.000000, 71.000000) rotate(45.000000) translate(-71.000000, -71.000000) " x="21" y="21" width="100" height="100"></rect>
+                    <polygon id="Path-3-Copy-6" fill="#0880CB" transform="translate(106.500000, 106.500000) scale(-1, -1) translate(-106.500000, -106.500000) " points="142 142 142 71 71 142"></polygon>
+                </g>
+                <g id="Example-Box" transform="translate(0.000000, 200.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Group-9" transform="translate(9.000000, 209.000000)" stroke="#0880CB">
+                    <rect id="Rectangle-Copy-4" stroke-width="5" fill="#FFFFFF" transform="translate(70.710678, 71.000000) rotate(45.000000) translate(-70.710678, -71.000000) " x="20.7106781" y="21" width="100" height="100"></rect>
+                    <polygon id="Path-3-Copy-4" fill="#0880CB" transform="translate(35.355339, 104.000000) scale(1, -1) translate(-35.355339, -104.000000) " points="70.7106781 137 70.7106781 71 -7.85046229e-15 137"></polygon>
+                </g>
+                <g id="Example-Box" transform="translate(400.000000, 0.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Group-6" transform="translate(409.000000, 9.000000)" stroke="#0880CB">
+                    <rect id="Rectangle-Copy-3" stroke-width="5" fill="#FFFFFF" transform="translate(70.710678, 70.710678) rotate(45.000000) translate(-70.710678, -70.710678) " x="20.7106781" y="20.7106781" width="100" height="100"></rect>
+                    <polygon id="Path-3-Copy-3" fill="#0880CB" points="70.7106781 70.7106781 70.7106781 0 -4.55492386e-13 70.7106781"></polygon>
+                    <polygon id="Path-3-Copy-2" fill="#0880CB" transform="translate(106.500000, 35.355339) scale(-1, 1) translate(-106.500000, -35.355339) " points="142 70.7106781 142 0 71 70.7106781"></polygon>
+                </g>
+                <g id="Example-Box" transform="translate(200.000000, 0.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Group-5" transform="translate(209.000000, 9.000000)" stroke="#0880CB">
+                    <rect id="Rectangle-Copy-2" stroke-width="5" fill="#FFFFFF" transform="translate(71.000000, 70.710678) rotate(45.000000) translate(-71.000000, -70.710678) " x="21" y="20.7106781" width="100" height="100"></rect>
+                    <polygon id="Path-3-Copy" fill="#0880CB" transform="translate(106.500000, 35.355339) scale(-1, 1) translate(-106.500000, -35.355339) " points="142 70.7106781 142 0 71 70.7106781"></polygon>
+                </g>
+                <g id="Example-Box" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Group" transform="translate(9.000000, 9.000000)" stroke="#0880CB">
+                    <rect id="Rectangle" stroke-width="5" fill="#FFFFFF" transform="translate(70.710678, 70.710678) rotate(45.000000) translate(-70.710678, -70.710678) " x="20.7106781" y="20.7106781" width="100" height="100"></rect>
+                    <polygon id="Path-3" fill="#0880CB" points="70.7106781 70.7106781 70.7106781 0 -7.45034936e-16 70.7106781"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,191 @@
+    .fancy-radio.with-icon {
+        padding-left: 65px;
+    }
+    
+    .fancy-radio {
+        border-radius: 9px;
+        background-color: #fff;
+        -webkit-box-shadow: 0 4px 11px -7px rgba(0, 0, 0, .2);
+        box-shadow: 0 4px 11px -7px rgba(0, 0, 0, .2);
+        opacity: .7;
+        cursor: pointer;
+        position: relative;
+        padding: 20px;
+        color: #444;
+        font-family: Karla;
+        padding-right: 40px;
+        font-size: 15px;
+        letter-spacing: .51px;
+        line-height: 18px;
+        margin-bottom: 15px;
+    }
+    
+    .fancy-radio .status {
+        -webkit-transform: rotate(180deg);
+        transform: rotate(180deg);
+        border-radius: 9px 0 0 9px;
+        background-color: #e4e5e7;
+        position: absolute;
+        right: 0;
+        top: 0;
+        height: 100%;
+        width: 30px;
+        z-index: 1;
+    }
+    
+    .fancy-radio .status-icon {
+        color: #fff;
+        z-index: 2;
+        font-size: 24px;
+        font-weight: 600;
+        text-align: center;
+        position: absolute;
+        right: 10px;
+        top: 50%;
+        margin-top: -10px;
+    }
+    
+    .fancy-radio.active {
+        -webkit-box-shadow: 0 4px 11px -2px rgba(86, 70, 143, .3);
+        box-shadow: 0 4px 11px -2px rgba(86, 70, 143, .3);
+        color: #ff3464;
+        opacity: 1;
+    }
+    
+    .fancy-radio.with-icon {
+        padding-left: 65px;
+    }
+    
+    .fancy-radio.active .status {
+        background-color: #56468f;
+    }
+    
+    .fancy-radio.active .status-icon {
+        position: absolute;
+        right: 8px;
+        top: 55%;
+        /* margin-top: -12px; */
+    }
+    
+    .icon {
+        left: 0;
+        width: 50px;
+        height: 50px;
+        padding: 5px;
+        position: absolute;
+        top: 5px;
+    }
+    
+    .fancy-radio .icon-img {
+        opacity: .43;
+        width: 40px;
+        height: 40px;
+        top: 5px;
+        background-color: black;
+    }
+    
+    .fancy-radio.active .icon-img {
+        opacity: 1.0;
+        background-color: #ff3464;
+    }
+    
+    .c-radio__item {
+        position: relative;
+        padding-left: 15px;
+    }
+    
+    .c-radio__dot,
+    .c-radio__input,
+    .c-radio__input--check {
+        position: absolute;
+        top: 50%;
+        -webkit-transform: translateY(-50%);
+        transform: translateY(-50%);
+    }
+    
+    .c-radio__input,
+    .c-radio__input--check {
+        font-size: 15px;
+        left: 18px;
+        opacity: 0;
+        z-index: -1;
+    }
+    
+    [type=checkbox],
+    [type=radio] {
+        box-sizing: border-box;
+        padding: 0;
+    }
+    
+    .c-radio__input--check:checked+.c-radio__answer,
+    .c-radio__input:checked+.c-radio__answer {
+        background: #9fc90f;
+        border: 1px solid #578706;
+    }
+    
+    .c-radio__answer {
+        background-color: #eee;
+        background-color: #f7f7f7;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        cursor: pointer;
+        display: block;
+        font-weight: 500;
+        line-height: 1.25;
+        margin-bottom: 12px;
+        min-height: 48px;
+        /* padding: 11px 16px 11px 44px; */
+        padding: 14px 11px 11px 11px;
+        position: relative;
+    }
+    
+    .c-radio__input--check:checked+.c-radio__answer>.c-radio__dot,
+    .c-radio__input:checked+.c-radio__answer>.c-radio__dot {
+        border-color: #578706;
+    }
+    
+    .c-radio__dot {
+        border: 1px solid #bbb;
+        left: 14px;
+        width: 18px;
+        height: 18px;
+        border-radius: 50%;
+        background: #fff;
+    }
+    
+    .c-radio__dot,
+    .c-radio__input,
+    .c-radio__input--check {
+        position: absolute;
+        top: 50%;
+        -webkit-transform: translateY(-50%);
+        transform: translateY(-50%);
+    }
+    
+    @media (min-width: 536px) {
+        .c-radio__answer {
+            min-width: 300px;
+        }
+    }
+    
+    @media (min-width: 404px) and (max-width:535px) {
+        .c-radio__answer {
+            min-width: 200px;
+        }
+    }
+    
+    @media (min-width: 204px) and (max-width:403px) {
+        .c-radio__answer {
+            min-width: 150px;
+        }
+    }
+    
+    *,
+    *:after,
+    *:before {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        /* font-family: "Open Sans"; */
+    }
+    /* Form Progress */

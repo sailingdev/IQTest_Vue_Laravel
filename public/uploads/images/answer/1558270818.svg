@@ -1,0 +1,45 @@
+
+<svg width="260px" height="260px" viewBox="0 0 260 260" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <polygon id="path-1" points="0 0 260 0 260 260 184.53776 260 0 260 0 217.629187"></polygon>
+        <filter x="-2.3%" y="-1.5%" width="104.6%" height="103.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="2" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.031372549   0 0 0 0 0.501960784   0 0 0 0 0.796078431  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="-2" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.031372549   0 0 0 0 0.501960784   0 0 0 0 0.796078431  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Questions" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Question-2" transform="translate(-1176.000000, -671.000000)">
+            <g id="Options" transform="translate(920.000000, 154.000000)">
+                <g id="Option-6" transform="translate(260.000000, 519.000000)">
+                    <g id="Option-Box-Container">
+                        <g id="Backgound-Box">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill-opacity="0.5" fill="#F9F9F9" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <path d="M0,0 L40,0 L40,41 C40,45.9705627 35.9705627,50 31,50 L0,50 L0,0 Z" id="Background-Box-Number" fill="#DBF1FF" fill-rule="evenodd"></path>
+                        <text id="Option-Number" font-family="Roboto-Regular, Roboto" font-size="25" font-weight="normal" fill="#0880CB">
+                            <tspan x="13.7250977" y="34">F</tspan>
+                        </text>
+                    </g>
+                    <g id="Option-Triangle" transform="translate(75.000000, 75.000000)">
+                        <polygon id="Triangle" stroke="#0880CB" stroke-width="6" fill="#D8D8D8" points="55 0 110 110 0 110"></polygon>
+                        <polygon id="Triangle" stroke="#0880CB" stroke-width="5" fill="#FF0000" points="55 -6.5 84 31.5 26 31.5"></polygon>
+                        <circle id="Oval" stroke="#979797" stroke-width="1" fill="#FFEF00" cx="55" cy="54" r="12"></circle>
+                        <circle id="Oval-Copy" stroke="#979797" stroke-width="1" fill="#FF0000" cx="38" cy="88" r="12"></circle>
+                        <circle id="Oval-Copy-2" stroke="#979797" stroke-width="1" fill="#14FF00" cx="72" cy="88" r="12"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,48 @@
+
+<svg width="260px" height="260px" viewBox="0 0 260 260" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <polygon id="path-1" points="0 0 260 0 260 260 184.53776 260 0 260 0 217.629187"></polygon>
+        <filter x="-2.3%" y="-1.5%" width="104.6%" height="103.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="2" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.031372549   0 0 0 0 0.501960784   0 0 0 0 0.796078431  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="-2" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.031372549   0 0 0 0 0.501960784   0 0 0 0 0.796078431  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Questions" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Question-20" transform="translate(-916.000000, -411.000000)">
+            <g id="Options" transform="translate(920.000000, 154.000000)">
+                <g id="Option-3" transform="translate(0.000000, 259.000000)">
+                    <g id="Option-Box-Container">
+                        <g id="Backgound-Box">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill-opacity="0.5" fill="#F9F9F9" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <path d="M0,0 L40,0 L40,41 C40,45.9705627 35.9705627,50 31,50 L0,50 L0,0 Z" id="Background-Box-Number" fill="#DBF1FF" fill-rule="evenodd"></path>
+                        <text id="Option-Number" font-family="Roboto-Regular, Roboto" font-size="25" font-weight="normal" fill="#0880CB">
+                            <tspan x="12.3640137" y="33">C</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-37-Copy-9" transform="translate(130.000000, 130.000000) rotate(90.000000) translate(-130.000000, -130.000000) translate(80.000000, 80.000000)" stroke="#0880CB">
+                        <circle id="Oval" stroke-width="5" fill="#FFFFFF" cx="50" cy="50" r="50"></circle>
+                        <rect id="Rectangle" stroke-width="2" x="28" y="28" width="44" height="44"></rect>
+                        <path d="M72,28 L85.7431641,14.2568359" id="Path-31" stroke-width="2"></path>
+                        <path d="M14,85.7431641 L27.7431641,72" id="Path-31-Copy" stroke-width="2"></path>
+                        <path d="M72,85.7431641 L85.7431641,72" id="Path-31-Copy-2" stroke-width="2" transform="translate(78.871582, 78.871582) scale(-1, 1) translate(-78.871582, -78.871582) "></path>
+                        <path d="M14,27.7431641 L27.7431641,14" id="Path-31-Copy-3" stroke-width="2" transform="translate(20.871582, 20.871582) scale(-1, 1) translate(-20.871582, -20.871582) "></path>
+                        <polygon id="Path-33" stroke-width="2" fill="#0880CB" points="14 14 27.7431641 27.7431641 27.7431641 72 14 85.7431641 3.58544922 70.1123047 1.77635684e-15 52.7275391 0.806640625 40.753418 4.51806641 28.5170898 9.79980469 19.4287109"></polygon>
+                        <polygon id="Path-33-Copy-3" stroke-width="2" fill="#0880CB" transform="translate(50.128418, 86.128418) scale(-1, -1) rotate(90.000000) translate(-50.128418, -86.128418) " points="50.2568359 50.2568359 64 64 64 108.256836 50.2568359 122 39.8422852 106.369141 36.2568359 88.984375 37.0634766 77.0102539 40.7749023 64.7739258 46.0566406 55.6855469"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

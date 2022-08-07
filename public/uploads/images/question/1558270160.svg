@@ -1,0 +1,58 @@
+
+<svg width="560px" height="560px" viewBox="0 0 560 560" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Questions" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Question-12" transform="translate(-180.000000, -264.000000)">
+            <g id="Console" transform="translate(180.000000, 264.000000)">
+                <g id="Example-Box" transform="translate(400.000000, 400.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <text id="Question" font-family="Roboto-Regular, Roboto" font-size="100" font-weight="normal" fill="#0880CB">
+                    <tspan x="456" y="519">?</tspan>
+                </text>
+                <g id="Example-Box" transform="translate(200.000000, 400.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Example-Box" transform="translate(0.000000, 400.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <polygon id="Path-15-Copy-2" stroke="#0880CB" stroke-width="5" stroke-linejoin="round" points="104.230469 430 105 530 55 530"></polygon>
+                <polygon id="Path-15-Copy-3" stroke="#0880CB" stroke-width="5" stroke-linejoin="round" points="304.230469 430 305 530 255 530"></polygon>
+                <g id="Example-Box" transform="translate(400.000000, 200.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Example-Box" transform="translate(200.000000, 200.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Example-Box" transform="translate(0.000000, 200.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <rect id="Rectangle" stroke="#0880CB" stroke-width="5" fill="#FFFFFF" x="55" y="230" width="50" height="100"></rect>
+                <rect id="Rectangle-Copy" stroke="#0880CB" stroke-width="5" fill="#FFFFFF" x="430" y="230" width="50" height="100"></rect>
+                <g id="Example-Box" transform="translate(400.000000, 0.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Group" transform="translate(480.500000, 81.000000) rotate(90.000000) translate(-480.500000, -81.000000) translate(422.500000, 20.500000)" stroke="#0880CB">
+                    <path d="M97.5,104 L97.5,4" id="Path-13" stroke-width="5"></path>
+                    <path d="M0.5,104 L100.5,104" id="Path-13-Copy" stroke-width="5"></path>
+                    <polygon id="Path-14" stroke-width="4" points="97.5 0 80.1191406 23.5390625 115.082031 23.5390625"></polygon>
+                    <polygon id="Path-14-Copy" stroke-width="4" transform="translate(11.769531, 103.518555) rotate(-90.000000) translate(-11.769531, -103.518555) " points="11.6689453 91.7490234 -5.71191406 115.288086 29.2509766 115.288086"></polygon>
+                </g>
+                <g id="Example-Box" transform="translate(200.000000, 0.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Group-Copy" transform="translate(280.000000, 120.000000) rotate(90.000000) translate(-280.000000, -120.000000) translate(262.000000, 68.000000)" stroke="#0880CB">
+                    <path d="M17.5,104 L17.5,4" id="Path-13" stroke-width="5"></path>
+                    <polygon id="Path-14" stroke-width="4" points="17.5 1.13686838e-13 0.119140625 23.5390625 35.0820312 23.5390625"></polygon>
+                </g>
+                <g id="Example-Box" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Group-Copy-2" transform="translate(37.500000, 80.500000) rotate(90.000000) translate(-37.500000, -80.500000) translate(-13.000000, 63.000000)" stroke="#0880CB">
+                    <path d="M0.5,18 L100.5,18" id="Path-13-Copy" stroke-width="5"></path>
+                    <polygon id="Path-14-Copy" stroke-width="4" transform="translate(11.769531, 17.518555) rotate(-90.000000) translate(-11.769531, -17.518555) " points="11.6689453 5.74902344 -5.71191406 29.2880859 29.2509766 29.2880859"></polygon>
+                </g>
+                <path d="M305,430 L255,430" id="Path" stroke="#0880CB" stroke-width="5"></path>
+            </g>
+        </g>
+    </g>
+</svg>

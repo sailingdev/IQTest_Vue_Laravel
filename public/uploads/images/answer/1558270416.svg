@@ -1,0 +1,61 @@
+
+<svg width="260px" height="260px" viewBox="0 0 260 260" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <polygon id="path-1" points="0 0 260 0 260 260 184.53776 260 0 260 0 217.629187"></polygon>
+        <filter x="-2.3%" y="-1.5%" width="104.6%" height="103.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="2" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.031372549   0 0 0 0 0.501960784   0 0 0 0 0.796078431  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="-2" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.031372549   0 0 0 0 0.501960784   0 0 0 0 0.796078431  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Questions" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Question-17" transform="translate(-916.000000, -152.000000)">
+            <g id="Options" transform="translate(920.000000, 154.000000)">
+                <g id="Option-1">
+                    <g id="Option-Box-Container">
+                        <g id="Backgound-Box">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill-opacity="0.5" fill="#F9F9F9" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <path d="M0,0 L40,0 L40,41 C40,45.9705627 35.9705627,50 31,50 L0,50 L0,0 Z" id="Background-Box-Number" fill="#DBF1FF" fill-rule="evenodd"></path>
+                        <text id="Option-Number" font-family="Roboto-Regular, Roboto" font-size="25" font-weight="normal" fill="#0880CB">
+                            <tspan x="12.3457031" y="33">A</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-28-Copy-3" transform="translate(80.000000, 80.000000)" stroke="#0880CB">
+                        <polygon id="Triangle" stroke-width="5" fill="#FFFFFF" points="50 0 100 100 0 100"></polygon>
+                        <polygon id="Triangle" stroke-width="2" fill="#FFFFFF" transform="translate(50.000000, 75.000000) rotate(180.000000) translate(-50.000000, -75.000000) " points="50 50 75 100 25 100"></polygon>
+                        <g id="Group-29" transform="translate(28.517578, 14.000000)" stroke-width="2">
+                            <path d="M0,30.5 L42.6699219,30.5" id="Path-26"></path>
+                            <path d="M0,25.5 L42.6699219,25.5" id="Path-26-Copy"></path>
+                            <path d="M5.23242187,20.5 L37.7275391,20.5" id="Path-26-Copy-2"></path>
+                            <path d="M9.48242187,15.5 L34.4824219,15.5" id="Path-26-Copy-3"></path>
+                            <path d="M9.48242187,10.5 L34.4824219,10.5" id="Path-26-Copy-4"></path>
+                            <path d="M11.4824219,5.5 L31.4824219,5.5" id="Path-26-Copy-5"></path>
+                            <path d="M14.4824219,0.5 L29.4824219,0.5" id="Path-26-Copy-6"></path>
+                        </g>
+                        <g id="Group-29-Copy" transform="translate(49.517578, 73.000000) rotate(180.000000) translate(-49.517578, -73.000000) translate(26.517578, 55.000000)" stroke-width="2">
+                            <path d="M0.517578125,35.5 L45.5175781,35.5" id="Path-26"></path>
+                            <path d="M3.51757813,30.5 L42.5175781,30.5" id="Path-26-Copy"></path>
+                            <path d="M5.76408617,25.5 L40.2286044,25.5" id="Path-26-Copy-2"></path>
+                            <path d="M8.51757812,20.5 L37.5175781,20.5" id="Path-26-Copy-3"></path>
+                            <path d="M10.5175781,15.5 L34.5175781,15.5" id="Path-26-Copy-4"></path>
+                            <path d="M12.5175781,10.5 L32.5175781,10.5" id="Path-26-Copy-5"></path>
+                            <path d="M14.5175781,5.5 L30.5175781,5.5" id="Path-26-Copy-6"></path>
+                            <path d="M17.5175781,0.5 L26.5175781,0.5" id="Path-26-Copy-7"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

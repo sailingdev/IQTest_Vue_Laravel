@@ -1,0 +1,59 @@
+
+<svg width="560px" height="560px" viewBox="0 0 560 560" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Questions" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Question-3" transform="translate(-180.000000, -264.000000)">
+            <g id="Console" transform="translate(180.000000, 264.000000)">
+                <g id="Example-Box" transform="translate(400.000000, 400.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <text id="Question" font-family="Roboto-Regular, Roboto" font-size="100" font-weight="normal" fill="#0880CB">
+                    <tspan x="456" y="519">?</tspan>
+                </text>
+                <g id="Example-Box" transform="translate(201.000000, 400.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <path d="M281.5,430 L281.5,530" id="Path-2-Copy-6" stroke="#0880CB" stroke-width="6"></path>
+                <g id="Example-Box" transform="translate(0.000000, 400.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <polygon id="Triangle" stroke="#0880CB" stroke-width="6" fill="#D8D8D8" points="80 430 130 530 30 530"></polygon>
+                <g id="Example-Box" transform="translate(400.000000, 200.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <path d="M530,280.5 L430,280.5" id="Path-2-Copy-5" stroke="#0880CB" stroke-width="6"></path>
+                <g id="Example-Box" transform="translate(200.000000, 200.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Group-4" transform="translate(230.000000, 230.000000)" stroke="#0880CB" stroke-width="6">
+                    <circle id="Oval-Copy" fill="#D8D8D8" cx="50" cy="50" r="50"></circle>
+                    <path d="M100,50.5 L3.55271368e-14,50.5" id="Path-2-Copy-4"></path>
+                </g>
+                <g id="Example-Box" transform="translate(0.000000, 200.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <circle id="Oval" stroke="#0880CB" stroke-width="6" fill="#D8D8D8" cx="80" cy="280" r="50"></circle>
+                <g id="Example-Box" transform="translate(400.000000, 0.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Group-3" transform="translate(430.000000, 30.000000)" stroke="#0880CB" stroke-width="6">
+                    <path d="M50.5,0 L50.5,100" id="Path-2-Copy-3"></path>
+                    <path d="M100,50 L3.55271368e-14,50" id="Path-2-Copy-2"></path>
+                </g>
+                <g id="Example-Box" transform="translate(200.000000, 0.000000)" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Group-2" transform="translate(230.000000, 30.000000)" stroke="#0880CB" stroke-width="6">
+                    <rect id="Rectangle-Copy" fill="#D8D8D8" x="3" y="3" width="94" height="94"></rect>
+                    <path d="M100,50 L3.55271368e-14,50" id="Path-2-Copy"></path>
+                </g>
+                <g id="Example-Box" stroke="#0880CB" stroke-width="3">
+                    <rect id="Rectangle" x="1.5" y="1.5" width="157" height="157"></rect>
+                </g>
+                <g id="Group" transform="translate(30.000000, 30.000000)" stroke="#0880CB" stroke-width="6">
+                    <rect id="Rectangle" fill="#D8D8D8" x="3" y="3" width="94" height="94"></rect>
+                    <path d="M50,0 L50,100" id="Path-2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
